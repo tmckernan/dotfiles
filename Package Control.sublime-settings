@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"BeautifyRuby",
+		"BracketHighlighter",
+		"ElixirSublime",
+		"Git blame",
+		"JSX",
+		"Package Control",
+		"Pretty JSON",
+		"ReactJS",
+		"RuboCop",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jsxhint"
+	],
+	"repositories":
+	[
+		"http://sublime.wbond.net/testing/packages.json",
+		"http://sublime.wbond.net/testing/packages.json"
+	]
+}
