@@ -1,5 +1,5 @@
-Documentation:
+Style/Documentation:
   Enabled: false
 
-StringLiterals:
+Style/StringLiterals:
   Enabled: false
